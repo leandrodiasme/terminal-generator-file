@@ -1,0 +1,4 @@
+Quando o usuário selecioanr criar um arquivo:
+
+1 - Requisitar o módulo file system
+2 - Dentro da função receberResposta, se for resposta.opcao === 1, então vocês criam um arquivo no computador com nome arquivo.txt
